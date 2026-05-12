@@ -1,12 +1,5 @@
 # Spark Issue Triage Platform
 
-**Projet de Fin d'Études (PFE)** — Filière Big Data & IA, UIR Rabat  
-**Étudiant :** Anas Elkhabbaz | **Encadrant entreprise :** SQLI Rabat  
-**Soutenance :** 24 juin 2026  
-**Dépôt :** https://github.com/Anas-elkhabbaz/DataLakeHouse_PFE
-
----
-
 ## Description
 
 Plateforme complète de triage automatique des incidents du projet Apache Spark, construite sur

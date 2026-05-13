@@ -32,3 +32,8 @@ results/dbt_test_results.txt
 
 # uv lockfile (optional — keep if you want reproducible installs)
 # uv.lock
+
+
+#Claude 
+.claude/
+CLAUDE.md
